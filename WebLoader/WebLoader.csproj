@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>WebLoader</AssemblyName>
+    <RootNamespace>WebLoader</RootNamespace>
+    <BaseIntermediateOutputPath>obj3\</BaseIntermediateOutputPath>
+    <BaseOutputPath>bin3\</BaseOutputPath>
+  </PropertyGroup>
+
+</Project>
