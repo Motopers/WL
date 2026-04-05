@@ -11,7 +11,7 @@ GUI-приложение для скачивания медиаконтента 
 
 ```bash
 git clone https://github.com/motopers/WL.git
-&& cd WL
+cd WL
 ```
 
 ### Шаг 2: Запуск
@@ -19,10 +19,7 @@ git clone https://github.com/motopers/WL.git
 Из командной строки, выполните:
 
 
-```bash
-WebLoader.lnk
-```
-Или напрямую **Release (готовая сборка):**
+Напрямую **Release (готовая сборка):**
 ```bash
 cd Release
 .\WebLoader.exe
